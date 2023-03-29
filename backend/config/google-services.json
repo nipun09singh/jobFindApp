@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "1034373360844",
+    "project_id": "vartaai",
+    "storage_bucket": "vartaai.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1034373360844:android:f3b051516e7fe69dc16669",
+        "android_client_info": {
+          "package_name": "com.example.vartaai"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1034373360844-d0322aeqgo1uhnen0gba3ac2cka42nse.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.vartaai",
+            "certificate_hash": "77eb858020c7b99768b175ef1edf7906bb8b60b5"
+          }
+        },
+        {
+          "client_id": "1034373360844-2u4t94fhnns704e5vfn2h4qr2i25a2e9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlFJ0jELet-oG67Q-ZHkG7jpcJmrweZ60"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1034373360844-2u4t94fhnns704e5vfn2h4qr2i25a2e9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1034373360844-776dqkkdm5utt62mjtpve1027lre5i06.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.vartaai"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
